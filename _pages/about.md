@@ -10,27 +10,29 @@ redirect_from:
 
 # Short Biography 
 
-杨佳，中共党员。出生于辽宁省铁岭市。
+Yang Jia, a member of the CPC, was born in Tieling City, Liaoning Province.
 
 # Educational Background  
 
-* 研究生：2023.09 - 至今  
- 院校：辽宁工业大学  
- 专业：计算机技术  
- 在校表现：获校二等奖学金  
+* Graduate Study  
+Sep. 2023 – Present | Liaoning University of Technology  
+Major: Computer Technology  
+Achievement: Received the university's Second-Class Scholarship.   
 
-* 本科：2019.09 - 2023.06  
- 院校：辽宁工业大学  
- 专业：数据科学与大数据技术  
- 在校表现：获省级奖学金 1 次、校一等奖学金 2 次；获 2022 年全国数学建模竞赛省一、2022 年辽宁省数学建模竞赛省一；2022 年被评为三好学生，2021 年被评为先进个人  
+* Undergraduate Education  
+Sep. 2019 – Jun. 2023 | Liaoning University of Technology  
+Major: Data Science and Big Data Technology  
+Academic Honors: Received a Provincial-Level Scholarship (1x) and the university's First-Class Scholarship (2x).  
+Competition Awards: Secured the First Prize in the provincial round of the National College Student Mathematical Contest in Modeling (NCMCM) in 2022.  
+Campus Recognition: Named Outstanding Student (2022) and Advanced Individual (2021).    
 
 # Research Interests  
 
-目前研究方向：AI 安全  
-研究课题：基于机器学习模型的成员推理攻击及其隐私保护机制研究
+Current Research Focus: AI Security  
+Research Topic: Research on Membership Inference Attacks Based on Machine Learning Models and Their Privacy Protection Mechanisms  
 
 # Thesis
 
-* 综述论文：深度学习隐私保护技术的综述与展望：安全计算时代的挑战（《人工智能》期刊已录取）  
-* 基于子群体输出差异的成员推理攻击（在投）
-* 基于GAN语义伪装的成员推理攻击防御方案（在投）
+* Review Paper: A Review and Outlook of Privacy-Preserving Deep Learning Technologies: Challenges in the Era of Secure Computing (Accepted by the journal Artificial Intelligence)  
+* Membership Inference Attack Based on Sub-population Output Discrepancy (Under Review)
+* A Defense Scheme for Membership Inference Attacks Based on GAN Semantic Camouflage (Under Review)）
