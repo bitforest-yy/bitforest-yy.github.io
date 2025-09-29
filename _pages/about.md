@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-xixixi
+“Patience is the foundation of all intelligence.”——Plato
 
 # Short Biography 
 
