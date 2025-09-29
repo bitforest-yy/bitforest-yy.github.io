@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "./user_image/764CDEF1-BFF5-4080-8FB2-5C4AF446B7EF_1_102_o.jpeg"
   name             : "Yang jia"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Enthusiasm"
   location         : "Hangzhou, Zhejiang Province"
   employer         : "Liaoning University of Technology"
-  uri              : https://bitforest-yy.github.io/ # URL
-  Email            : "1240856316@qq.com" 
+  uri              : "https://bitforest-yy.github.io/" # URL
+  email            : "1240856316@qq.com" 
 
   # Academic websites
   academia         : # URL
