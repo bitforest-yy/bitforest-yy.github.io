@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Short Biography 
 ======
 杨佳，中共党员。出生于辽宁省铁岭市。
