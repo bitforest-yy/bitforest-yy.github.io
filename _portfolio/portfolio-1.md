@@ -1,7 +1,16 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* 2024.09 - 至今 | 浙江省杭州市安恒信息技术股份有限公司
+协助完成有关 AI 基础、AI 安全相关课程；
+参与 CTF 赛事中 AI 安全领域赛题的命题与开发；
+审核挑战杯作品；
+参与编写《2025网络安全产业人才发展报告》；
+2025年天网杯  --  第三名。
+
+* 2021 - 2022 | 辽宁省大学生创新创业训练计划项目 | 学生管理系统及其可视化
+学术论文： 《高校学生学习情况分析与可视化系统研究与应用》发表于《信息与电脑》
+软件著作权： 《高校学生学习情况分析与可视化系统 V1.0》
