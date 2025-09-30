@@ -1,8 +1,4 @@
----
-title: "Portfolio item number 1"
-excerpt: ""
-collection: portfolio
----
+# portfolio  
 
 * 2024.09 - 至今 | 浙江省杭州市安恒信息技术股份有限公司  
 协助完成有关 AI 基础、AI 安全相关课程；  
