@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "A Review and Outlook of Privacy-Preserving Deep Learning Technologies: Challenges in the Era of Secure Computing"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Deep learning technologies have been widely used in various fields, significantly improving the quality of daily life, but with them comes growing privacy concerns. Personal and sensitive information contained in large-scale datasets is prone to leakage due to mismanagement. In this paper, we systematically explore the privacy protection techniques in deep learning, and analyze the privacy risks in the process of data collection, storage, sharing, and model training and release. By introducing the principles, advantages and limitations of techniques such as differential privacy, homomorphic encryption, secure multi-party computation and federated learning, as well as practical application cases, this paper reveals the balance between privacy protection and model performance. Meanwhile, it looks forward to future research directions, including improving algorithmic efficiency and interpretability, constructing a comprehensive privacy protection framework, developing adaptive mechanisms and exploring cross-domain applications. This paper aims to provide a comprehensive perspective for researchers and industry experts to promote deep learning to play a positive role continuously with privacy protection.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+--- 
