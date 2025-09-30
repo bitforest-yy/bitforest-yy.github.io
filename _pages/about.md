@@ -36,3 +36,7 @@ Research Topic: Research on Membership Inference Attacks Based on Machine Learni
 * Review Paper: A Review and Outlook of Privacy-Preserving Deep Learning Technologies: Challenges in the Era of Secure Computing (Accepted by the journal Artificial Intelligence)  
 * Membership Inference Attack Based on Sub-population Output Discrepancy (Under Review)
 * A Defense Scheme for Membership Inference Attacks Based on GAN Semantic Camouflage (Under Review)）
+
+# Foreign Language Skills
+
+Passed CET-4 and CET-6.
