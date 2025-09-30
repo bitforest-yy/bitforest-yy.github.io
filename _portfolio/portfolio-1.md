@@ -4,15 +4,13 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# portfolio  
+* 2024.09 - Present | Hangzhou Anheng Information Technology Co., Ltd., Hangzhou, Zhejiang Province  
+Assisted in developing courses related to AI fundamentals and AI security.  
+Participated in the design and development of AI security-related questions for CTF competitions.  
+Reviewed entries for the "Challenge Cup" (national university student innovation competition).  
+Contributed to the compilation of 2025 Cybersecurity Industry Talent Development Report.  
+Secured the 3rd place in the 2025 "Tianwang Cup" (cybersecurity competition).  
 
-* 2024.09 - 至今 | 浙江省杭州市安恒信息技术股份有限公司  
-协助完成有关 AI 基础、AI 安全相关课程；  
-参与 CTF 赛事中 AI 安全领域赛题的命题与开发；  
-审核挑战杯作品；  
-参与编写《2025网络安全产业人才发展报告》；  
-2025年天网杯  --  第三名。  
-
-* 2021 - 2022 | 辽宁省大学生创新创业训练计划项目 | 学生管理系统及其可视化  
-学术论文： 《高校学生学习情况分析与可视化系统研究与应用》发表于《信息与电脑》  
-软件著作权： 《高校学生学习情况分析与可视化系统 V1.0》  
+* 2021 - 2022 | Liaoning Provincial College Students' Innovation and Entrepreneurship Training Program | Student Management System and Its Visualization  
+Published an academic paper titled Research and Application of College Students' Learning Situation Analysis and Visualization System in the journal Information and Computers.  
+Obtained Software Copyright for College Students' Learning Situation Analysis and Visualization System V1.0.  
