@@ -3,7 +3,7 @@ title: "Review and Prospects of Deep Learning Privacy Protection Techniques: Cha
 collection: publications
 category: manuscripts
 permalink: /publication/2025-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.' 
 date: 2025
 venue: ' Artificial Intelligence(Chinese)'
 ---
