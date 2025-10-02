@@ -3,7 +3,7 @@ title: "Review and Prospects of Deep Learning Privacy Protection Techniques: Cha
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is a review.' 
+excerpt: 'In this paper, we systematically explore the privacy protection techniques in deep learning, and analyze the privacy risks in the process of data collection, storage, sharing, and model training and release. By introducing the principles, advantages and limitations of techniques such as differential privacy, homomorphic encryption, secure multi-party computation and federated learning, as well as practical application cases, this paper reveals the balance between privacy protection and model performance. ' 
 date: 2025-09-10
 venue: ' Artificial Intelligence(Chinese)'
 ---
